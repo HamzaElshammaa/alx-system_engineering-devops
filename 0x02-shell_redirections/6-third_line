@@ -1,2 +1,2 @@
 #!/bin/bash
-
+nl -w 2 -b a -s '' -d $'\n' iacta
